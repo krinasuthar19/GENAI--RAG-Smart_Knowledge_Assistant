@@ -1,0 +1,60 @@
+
+# Core LLM Providers
+openai
+groq
+google-generativeai
+mistralai
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+
+# Hugging Face
+huggingface-hub
+sentence-transformers
+transformers
+accelerate
+
+# Vector Database
+chromadb
+
+# Document Loaders
+pypdf
+pymupdf
+unstructured
+
+# Environment Variables
+python-dotenv
+
+# Backend/API
+fastapi
+uvicorn
+
+# Data Handling
+pydantic
+pandas
+numpy
+
+# LLM Utilities
+tiktoken
+rank-bm25
+einops
+protobuf
+safetensors
+
+# Deep Learning
+torch
+
+# UI
+streamlit
+
+# Networking
+requests
+httpx
